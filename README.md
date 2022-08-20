@@ -11,3 +11,4 @@ Nintendo GAMEBOY ADVANCE SP charger pin 3D file and circuit board
 - NOTE: This is just in the testing phase and may not be perfect
 -
 - PCB thickness must be 1.6mm when printing PCB
+- Gerber file for PCB printing added
