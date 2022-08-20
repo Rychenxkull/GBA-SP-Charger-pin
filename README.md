@@ -1,5 +1,5 @@
 # GBA-SP-Charger-pin
-GAMEBOY ADVANCE SP charger pin 3D file and circuit board
+Nintendo GAMEBOY ADVANCE SP charger pin 3D file and circuit board
 
 - This is a project for people who have lost/damaged their charger or cant buy online due to region unavailability or high price
 -
