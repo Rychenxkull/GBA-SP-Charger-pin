@@ -8,7 +8,8 @@ Nintendo GAMEBOY ADVANCE SP charger pin 3D file and circuit board
 - The PCB will auto lock in place as I have designed it that way
 - The cap will also tighly close as it is designed that way too so that there is no need for screws
 - I will make a demonstration tutorial video once everything is ready
-- NOTE: This is just in the testing phase and may not be perfect
 -
 - PCB thickness must be 1.6mm when printing PCB
 - Gerber file for PCB printing added
+-
+- NOTE: This is just in the testing phase and may not be perfect
