@@ -3,7 +3,7 @@ Nintendo GAMEBOY ADVANCE SP charger pin 3D file and circuit board
 
 - This is a project for people who have lost/damaged their charger or cant buy online due to region unavailability or high price
 -
-- 3D printed charger pin has two parts: 1) the pin, 2) the cap
+- This thing has three parts: 1) the pin, 2) the cap, 3) the PCB
 - I have kept space for the actual connectors which will be a PCB that I will design soon
 - The PCB will auto lock in place as I have designed it that way
 - The cap will also tighly close as it is designed that way too so that there is no need for screws
